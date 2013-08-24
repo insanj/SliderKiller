@@ -1,0 +1,14 @@
+Package: com.insanj.sliderkiller
+Name: SliderKiller
+Depends: mobilesubstrate
+Version: 1.4
+Replaces: slidercustomizer
+Architecture: iphoneos-arm
+Priority: standard
+Description: Disable lockscreen "slide to" actions.
+ Disable lockscreen "slide to" actions.
+ Send all feedback immediately using contact button below.
+Maintainer: insanj <me@insanj.com>
+Author: Julian "insanj" Weiss
+Section: Tweaks
+Icon: file:///Library/Application%20Support/SliderKiller/icon.png
