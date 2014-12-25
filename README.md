@@ -1,11 +1,10 @@
-SliderKiller
-=======================
+# SliderKiller
 
-Disable lockscreen "slide to" actions when receiving notifications.
+Disable lockscreen "slide to" actions when receiving notifications. **Retired** (implemented by Apple) **as of iOS 7**. 
 
----------------------------------------
+## License
 	Simplified BSD License
-	Copyright (c) 2013, Julian Weiss
+	Copyright (c) 2013-2014, Julian Weiss
 	All rights reserved.
 
 	Redistribution and use in source and binary forms, with or without
